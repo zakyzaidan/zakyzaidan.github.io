@@ -2,4 +2,4 @@
 Base code for personal website exercise for WGTIK 2021
 
 example result:
-[https://zakyzaidan.github.io]
+[https://zakyzaidan.github.io/zakyzaidan.github.io/]
